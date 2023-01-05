@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mendesLet
-- 👀 I’m interested in Artifical Intelligence
-- 🌱 I’m currently learning Machine Learning
-- ✨ I’m looking to collaborate on Data Analysis/Visualization
+- 🌱 I’m interested in Artifical Intelligence
+- 🌱 I’m currently learning Python
 - 📫 How to reach me limendes1305@gmail.com
 
 <!---
