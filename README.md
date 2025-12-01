@@ -1,6 +1,25 @@
-- 👋 Hi, I’m @mendesLet
+### Hi, I'm a Developer in AI 🪶
 
-[![mendesLet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesLet)](https://github.com/mendesLet/github-readme-stats)
+Crafting intelligent experiences with language, sound, and interactive systems.
+
+---
+
+#### What I Do 📜
+
+* Build AI experiences powered by LLMs 
+* Create speech systems for ASR and TTS 
+* Develop robotics projects with natural interaction 
+* Design chatbots that feel intuitive and human like 
+
+#### What I'm Exploring 🌕
+
+* Multimodal AI systems combining text, audio, and action 
+* Real time conversational voice interfaces 
+* Embodied AI for more expressive robots 
+
+#### Connect ✨
+
+Check out my work or reach out if you'd like to collaborate 
 
 <!---
 mendesLet/mendesLet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
