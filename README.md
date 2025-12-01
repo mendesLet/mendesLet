@@ -19,7 +19,7 @@ Crafting intelligent experiences with language, sound, and interactive systems.
 
 #### Connect ✨
 
-Check out my work or reach out if you'd like to collaborate 
+Check out my work or reach out if you'd like to collaborate: [Linkedin](https://www.linkedin.com/in/let%C3%ADcia-lima-mendes-88124b245/)
 
 <!---
 mendesLet/mendesLet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
